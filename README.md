@@ -61,11 +61,6 @@ This is an Android application with camera,picture cropping,collage sticking and
 # Apk Demo
 Change screenshot/StickerCamera.zip to StickerCamera.apk
 
-# Contact Me
-
-- Weibo: http://weibo.com/2030683111
-- Email: 1132234509@qq.com
-
 # License
 ```
 Copyright 2015 DaQingkai
